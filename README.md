@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12766361)
 # Lab exercise 9 objectives
 1. Practice writing C++ classes that use shared pointers (`std::shared_ptr`).
 2. Continued practice writing programs that use maps and vectors.
