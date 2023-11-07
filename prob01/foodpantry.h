@@ -12,9 +12,7 @@ class FoodPantry {
              const std::map<std::string, int> &products)
       : name_(name), products_(products) {}
 
-  const std::string &GetName() const {
-    return name_;
-  }
+  const std::string &GetName() const { return name_; }
 
   void Donate(const std::string &item, int quantity) {
     if (products_.count(item) == 0) {

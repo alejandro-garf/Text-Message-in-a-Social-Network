@@ -19,9 +19,7 @@ class Volunteer {
     pantry_ = nullptr;
   }
 
-  std::shared_ptr<FoodPantry> AssignedPantry() const {
-    return pantry_;
-  }
+  std::shared_ptr<FoodPantry> AssignedPantry() const { return pantry_; }
 
  private:
   std::string name_;
